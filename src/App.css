@@ -1,0 +1,57 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: row; /* desktop: buttons left/right */
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .App {
+    flex-direction: column; /* stack page and buttons */
+  }
+
+  .button-container {
+    width: 100%;
+    justify-content: center;
+  }
+}
+/* Desktop: show buttons on sides, hide mobile buttons */
+.desktop-buttons {
+  display: flex;
+}
+
+.button-container {
+  display: none; /* hide mobile buttons by default */
+}
+
+/* Mobile: hide desktop buttons, show mobile buttons */
+@media (max-width: 768px) {
+  .desktop-buttons {
+    display: none; /* hide buttons on page sides */
+  }
+
+  .button-container {
+    display: flex; /* show mobile buttons */
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 1rem;
+  }
+}
