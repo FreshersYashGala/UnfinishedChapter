@@ -1,4 +1,7 @@
 import { useState } from "react";
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { BrowserRouter } from "react-router-dom";
 import "./App.css";
 import Button from "./Components/Button";
 import Page from "./Components/Page";
