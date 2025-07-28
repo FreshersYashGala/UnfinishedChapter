@@ -16,7 +16,7 @@ const Page = ({
 }: PageProps) => {
   return (
     <div className="Page">
-      <div className="title">Title : "The UnFinish Chapter"</div>
+      <div className="title">Title : "Random Reset"</div>
       <div className="chapter">
         Chapter {ChapterNumber} : {ChapterName}
       </div>
