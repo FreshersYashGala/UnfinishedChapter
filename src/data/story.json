@@ -9,85 +9,25 @@
           {
             "PageNumber": 1,
             "Content": [
-              {
-                "ParagraphNumber": 1,
-                "ParagraphContent": "Mumbai has never been a quiet place. It thrives on chaos—the buzz of the shopkeepers ready to begin a new day, the screeching sound of the 9:02 local train and the hustle of the people to catch it are indeed attention seeking. It is called ‘The City of Dreams’ where no one shies away from chasing it, no matter what. "
-              },
-              {
-                "ParagraphNumber": 2,
-                "ParagraphContent": "In this very city which does not rest (the fact that it only sleeps from 1:00am-3:00a.m.), I was somewhere in between—drifting through the final year of college, a part time job and trying to feel the very existence of life inside this body."
-              },
-              {
-                "ParagraphNumber": 3,
-                "ParagraphContent": "One evening, as I was sitting on my couch, with a coffee mug in one hand, thinking about random stuff, I heard the notification bell of my phone. At first, I chose to ignore it. In no time, it was followed by another notification… and then another. It gave rise to my curiosity. Having battled between my Id and Superego for a long time, I let my Id win over my Superego, thus opening the message."
-              }
-              ,
-              {
-                "ParagraphNumber": 4,
-                "ParagraphContent": "It was from Batku, a close friend of mine. She somehow knows how to drag me into discussions of weird topics."
-              }
-              ,
-              {
-                "ParagraphNumber": 5,
-                "ParagraphContent": "“Did you check the group?” she asked me."
-              }
-              ,
-              {
-                "ParagraphNumber": 6,
-                "ParagraphContent": "Not waiting for me to respond, he continued, “Story of Makers is hosting a seminar this Saturday. I'm going, you should come too.”"
-              }
-              ,
-              {
-                "ParagraphNumber": 7,
-                "ParagraphContent": "At 22, having no control over my impulsive behaviour, I agreed without a second thought. “I'm in”, I said at once despite having no clue on what the seminar was about."
-              }
-              ,
-              {
-                "ParagraphNumber": 8,
-                "ParagraphContent": "Soon after, I forgot about it and continued with my life. On a usual Friday night, as I was lying on the couch scrolling Instagram, after a hectic day at work, I received a message from Batku. "
-              }
-              ,
-              {
-                "ParagraphNumber": 9,
-                "ParagraphContent": "It said, “See you tomorrow at the seminar.”"
-              }
-              ,
-              {
-                "ParagraphNumber": 10,
-                "ParagraphContent": "I pretended that I remembered about it and said, “Sure, see you there.”"
-              }
-              ,
-              {
-                "ParagraphNumber":11,
-                "ParagraphContent": "The next day, as Batku and I reached, we looked around and found out that I was the only male in a room full of females! I cursed her a hundred times for having brought me here."
-              },
-              {
-                "ParagraphNumber": 12,
-                "ParagraphContent": "I thought to myself, “A male at 22, learning about a disease specific to the female reproductive system and that too, with a silicone model for demonstration! From now on, read every message thrice before saying yes to it.”"
-              },
-              {
-                "ParagraphNumber": 13,
-                "ParagraphContent": "Just as I was dealing with my awkwardness, she walked in— a chubby cheeked girl, full of confidence. She wasn't the kind that stories described—one walking in slow motion or hair flying with the effect of the wind. She was real—relatable, slightly chubby, unapologetically confident and full of herself. She was the spokesperson of the seminar—the one explaining cervixes, screenings and everything under the earth that came under the topic of Cervical Cancer. "
-              },
-              {
-                "ParagraphNumber": 14,
-                "ParagraphContent": "But… there was something different about her—she wasn't embarrassed or hesitant, rather her voice had clarity and she was calm and open. In no time, the room which once felt like a misplaced Tupperware lid, now felt like a safe space."
-              },
-              {
-                "ParagraphNumber": 15,
-                "ParagraphContent": "After about two hours, the formal session ended. The seminar hall then transformed into a gossip café (the kind of thing only possible in India). She soon leaned across the table, talking about how she never quits until she’s tried something at least three times.  "
-              },
-              {
-                "ParagraphNumber": 16,
-                "ParagraphContent": "I thought to myself—such a girl is rare today… the one who does not hesitate to talk to a crowd, the one who had no filters, but was true to herself. "
-              },
-              {
-                "ParagraphNumber": 17,
-                "ParagraphContent": "I did not say much that day, but something about that girl stuck with me for a while."
-              }
+              { "ParagraphNumber": 1, "ParagraphContent": "Mumbai has never been a quiet place. It thrives on chaos—the buzz of the shopkeepers ready to begin a new day, the screeching sound of the 9:02 local train and the hustle of the people to catch it are indeed attention seeking. It is rightly called ‘The City of Dreams’ where no one shies away from chasing theirs, no matter the odds." },
+              { "ParagraphNumber": 2, "ParagraphContent": "In this restless city where sleep visits only during the late night hours between 1:00 a.m. and 3:00 a.m. I was somewhere in between: drifting through my final year of college, juggling a part time job and trying to feel the very existence of life inside this body." },
+              { "ParagraphNumber": 3, "ParagraphContent": "One evening, as I was resting on the couch  with a coffee mug in hand, thinking about random stuff, the chime of a notification broke the silence. At first, I ignored it. In no time, it was followed by another notification… and then another.  My curiosity started rising high. After a brief battle between my Id and Superego, I gave in—curiosity won. I opened the message." },
+              { "ParagraphNumber": 4, "ParagraphContent": "It was from Batku, a close friend of mine. She has this uncanny talent of dragging me into the most random conversations." },
+              { "ParagraphNumber": 5, "ParagraphContent": "“Did you check the group?” she asked me." },
+              { "ParagraphNumber": 6, "ParagraphContent": "Before I could even reply she continued, “The Story of Makers is hosting a seminar this Saturday. I'm going, you should come too.”" },
+              { "ParagraphNumber": 7, "ParagraphContent": "At 22, I was still ruled by my impulses. So, without a second thought, I agreed. “I'm in,” I said at once despite having no clue on what the seminar was about." },
+              { "ParagraphNumber": 8, "ParagraphContent": "And just like that, I forgot about it and went on with life. On a typical Friday night, tired from work and mindlessly scrolling through Instagram, I got another message from Batku." },
+              { "ParagraphNumber": 9, "ParagraphContent": "It said, “See you tomorrow at the seminar.”" },
+              { "ParagraphNumber": 10, "ParagraphContent": "Pretending that I hadn't forgotten, I replied, “Sure, see you there.”" },
+              { "ParagraphNumber": 11, "ParagraphContent": "The next day, when Batku and I reached the venue, I realized—I was the only male in a room full of females! It was no less than a horror film for a 22 year old male to be learning about a disease specific to the female reproductive system and that too, with a silicone model for demonstration!" },
+              { "ParagraphNumber": 12, "ParagraphContent": "I thought to myself, “From now on, read every message thrice before saying yes to it.”" },
+              { "ParagraphNumber": 13, "ParagraphContent": "Just as I was sinking into the awkwardness, she walked in— a chubby cheeked girl, full of confidence. She wasn't the kind that stories described—one walking in slow motion or hair flying with the effect of the wind. She was real—relatable, slightly chubby, unapologetically confident and full of herself. She was the seminar's spokesperson—explaining cervixes, screenings and everything under the cervical cancer umbrella, with striking ease." },
+              { "ParagraphNumber": 14, "ParagraphContent": "But… there was something different about her—she wasn't embarrassed or hesitant, rather her voice had clarity and she was calm and open. In no time, the room—which earlier felt like a mismatched Tupperware lid—transformed into a space that felt warm, welcoming and safe." },
+              { "ParagraphNumber": 15, "ParagraphContent": "After about two hours, the formal session ended. The seminar hall then transformed into a gossip café (the kind of thing only possible in India). She soon leaned across the table, talking about how she never quits until she’s tried something at least three times." },
+              { "ParagraphNumber": 16, "ParagraphContent": "I thought to myself—such a girl is rare today… the one who does not hesitate to talk to a crowd, the one who had no filters, but was true to herself." },
+              { "ParagraphNumber": 17, "ParagraphContent": "I didn't say much that day, but something about that girl stuck with me for a while." }
             ]
           }
-    
         ]
       },
       {
@@ -97,84 +37,25 @@
           {
             "PageNumber": 2,
             "Content": [
-              {
-                "ParagraphNumber": 1,
-                "ParagraphContent": "For the next few days, I just couldn’t take my mind off her thoughts—random thoughts about her presence, the comfort she made everyone of us feel, her bubbly nature, everything about her was just so naturally beautiful. Her personality had power—the kind that could easily manage such a big crowd. Back in the seminar, she mentioned that she had been working on a project, something aimed at helping newborn babies. Being a student of Science, the topic really intrigued me. "
-              },
-              {
-                "ParagraphNumber": 2,
-                "ParagraphContent": "I began thinking about ways to get in touch with her—Instagram, phone number, Email address—all possible ideas under the earth came to my mind. "
-              },
-              {
-                "ParagraphNumber": 3,
-                "ParagraphContent": "“Maybe, I should ask Batku for her number,” I thought to myself. My curiosity won over my patience and I asked Batku for her number. Sson after I texted her."
-              }
-              ,
-              {
-                "ParagraphNumber": 4,
-                "ParagraphContent": "No ‘Hello’, no ‘How are you doing?’, just business.“XYZ project still going on?” I asked her."
-              }
-              ,
-              {
-                "ParagraphNumber": 5,
-                "ParagraphContent": "Honestly speaking, if I was her, I would have thought to myself that the person was a creep and probably would have blocked them. But she wasn’t like others—she was calm, confident and outspoken. She possessed the courage to reply to my text. "
-              }
-              ,
-              {
-                "ParagraphNumber": 6,
-                "ParagraphContent": "“Hi!” She replied enthusiastically. "
-              }
-              ,
-              {
-                "ParagraphNumber": 7,
-                "ParagraphContent": "“Yes, I am still working on that project. It basically focuses on the health of premature newborns,” she said."
-              }
-              ,
-              {
-                "ParagraphNumber": 8,
-                "ParagraphContent": "“Ahh! That's pretty interesting!,” I replied, sounding equally enthusiastic."
-              }
-              ,
-              {
-                "ParagraphNumber": 9,
-                "ParagraphContent": "“Can I in some way be a helping hand in this?” I asked."
-              }
-              ,
-              {
-                "ParagraphNumber": 10,
-                "ParagraphContent": "“Yeah! Sure,” she said at once."
-              }
-              ,
-              {
-                "ParagraphNumber":11,
-                "ParagraphContent": "“Thank you, Didi,” I said"
-              }
-                 ,
-              {
-                "ParagraphNumber":12,
-                "ParagraphContent": "“Didi! Ewww!!!” she said in the most dramatic way. “Do I look that old for you to address me like that?” she continued in her dramatic tone, holding the expression on her face (she raised her brow dramatically, her eyes dancing wide and a slight grin on her face). "
-              },
-          
-              {
-                "ParagraphNumber": 13,
-                "ParagraphContent": "(We “thought” we would meet and discuss how to go about the project. But, life does not wait for anyone. We both moved on with our lives, independently and the meet never actually took place.)"
-              },
-              {
-                "ParagraphNumber": 14,
-                "ParagraphContent": "Days passed and the person who was just an acquaintance once, now became a close friend. We started discussing things like hobbies and ambitions, how the other person sees life as, and even planned to go on a trek together on the upcoming weekend.  "
-              },
-              {
-                "ParagraphNumber": 15,
-                "ParagraphContent": "But just like our project meeting, this too remained in the “planning” phase."
-              },
-              {
-                "ParagraphNumber": 16,
-                "ParagraphContent": "The next month, I had my exams. Hence, I went silent. I thought if she’d text, I would reply late at night, once I was free from my study schedule. But, she too, like me, chose to remain silent. And hence, we grew apart."
-              }
-              
+              { "ParagraphNumber": 1, "ParagraphContent": "For the next few days, I couldn't get her off my thoughts—random thoughts about her presence, the comfort she made everyone of us feel, her bubbly energy…everything about her was just so naturally beautiful. There was quite power in her personality—the kind that could command a room without raising her voice." },
+              { "ParagraphNumber": 2, "ParagraphContent": "At the seminar, she had mentioned a project she was working on— something to help newborns. As a science student, the topic caught my attention." },
+              { "ParagraphNumber": 3, "ParagraphContent": "I started plotting ways to reach out—Instagram, phone number, email... every possibility under the sun crossed my mind." },
+              { "ParagraphNumber": 4, "ParagraphContent": "“Maybe, I should ask Batku for her number,” I thought. Curiosity won over my patience,and I asked Batku for her number. Soon after, sent her a text." },
+              { "ParagraphNumber": 5, "ParagraphContent": "No ‘Hello’, no ‘How are you doing?’, just straight-up business. \"XYZ project still going on?”" },
+              { "ParagraphNumber": 6, "ParagraphContent": "Honestly, if I was her, I might have assumed I was a creep and blocked the number. But she wasn’t like like most people—she was calm, confident and bold. She had the courage to reply to my text." },
+              { "ParagraphNumber": 7, "ParagraphContent": "“Hi!” She replied, as cheerful as ever." },
+              { "ParagraphNumber": 8, "ParagraphContent": "“Yes, still working on it. Its about the health of premature newborns,” she said." },
+              { "ParagraphNumber": 9, "ParagraphContent": "“Ahh! That's actually really interesting!” I replied, matching her energy." },
+              { "ParagraphNumber": 10, "ParagraphContent": "“Can I be of help in some way?” I asked." },
+              { "ParagraphNumber": 11, "ParagraphContent": "“Yeah! Sure,” she replied without hesitation." },
+              { "ParagraphNumber": 12, "ParagraphContent": "“Thank you, Didi,” I said, without much thought." },
+              { "ParagraphNumber": 13, "ParagraphContent": "“Didi! Ewww!!!” she exclaimed, overly dramatic. “Do I look that old to you?” (she raised her brow dramatically, her eyes dancing wide and a slight grin on her face)." },
+              { "ParagraphNumber": 14, "ParagraphContent": "We “thought” we would meet to discuss the project. But life, as always, had other plans. Days passed and the meeting remained just that—a thought." },
+              { "ParagraphNumber": 15, "ParagraphContent": "Days passed and somehow, the girl who was an acquaintance became a close friend. We spoke about things like hobbies and ambitions, how we viewed the world—and even planned to go on a trek together." },
+              { "ParagraphNumber": 16, "ParagraphContent": "But like the project meeting, the trek never happened. It remained stuck in the “we should” phase." },
+              { "ParagraphNumber": 17, "ParagraphContent": "Next month, exams took over my life. Hence, I went silent. I figured if she texted, I’d reply late at night—maybe. But she didn’t text either. We both went quiet. And slowly, we drifted." }
             ]
           }
-    
         ]
       },
       {
@@ -184,68 +65,24 @@
           {
             "PageNumber": 3,
             "Content": [
-              {
-                "ParagraphNumber": 1,
-                "ParagraphContent": "Hours turned into days, and days into weeks. And thus, four weeks passed. And then, eight more days. But none of us said anything to the other—no “How are you doing?” message from her, no “Let’s meet, it's getting a bit hectic for me” message from me either."
-              },
-              {
-                "ParagraphNumber": 2,
-                "ParagraphContent": "On a bright Sunday morning, as I was sitting on the sofa, with a coffee mug in my hand, I thought to myself, “Am I forgetting someone?”"
-              },
-              {
-                "ParagraphNumber": 3,
-                "ParagraphContent": "“DORAEMON,” My Superego shouted."
-              }
-              ,
-              {
-                "ParagraphNumber": 4,
-                "ParagraphContent": "What happened next was pretty against my nature. I picked up my phone and decided to text her."
-              }
-              ,
-              {
-                "ParagraphNumber": 5,
-                "ParagraphContent": "“Hello.” I said."
-              }
-              ,
-              {
-                "ParagraphNumber": 6,
-                "ParagraphContent": "Within no time, my message was delivered, seen and replied to."
-              }
-              ,
-              {
-                "ParagraphNumber": 7,
-                "ParagraphContent": "“You up this early on a Sunday?” She asked dramatically. "
-              }
-              ,
-              {
-                "ParagraphNumber": 8,
-                "ParagraphContent": "And soon after that, we began chatting—about random things, right from the deepest topics like “What does home mean to you” to the most silly topic like “What would you do if you were me for a day.”"
-              }
-              ,
-              {
-                "ParagraphNumber": 9,
-                "ParagraphContent": "I felt a sense of comfort—the kind I had never felt before. It did not feel like talking to someone whom you have not spoken to for a month now. It felt like yesterday that we discussed the project and planned to meet. And we will be meeting to discuss it further, tomorrow. "
-              }
-              ,
-              {
-                "ParagraphNumber": 10,
-                "ParagraphContent": "“Let’s meet today at 6:00 p.m.,” I said."
-              }
-              ,
-              {
-                "ParagraphNumber":11,
-                "ParagraphContent": "And unlike our other “meets” this one did take place. We did not know why we were meeting, we did not know where we were going to meet—maybe at her favourite café, maybe at the beach, enjoying the sunset, with our Starbucks coffee in hand. What was going to happen—no one knew. "
-              },
-              {
-                "ParagraphNumber":12,
-                "ParagraphContent": "And somehow, that spontaneous meet did turn out to be better than a planned one. It gave me small moments to be happy about and a memory for a lifetime to carry with me."
-              }
+              { "ParagraphNumber": 1, "ParagraphContent": "Hours turned into days, and days into weeks.  Four weeks passed. Then, eight more days. Still no “How are you doing?” message from her, no “Let’s meet, it's getting a bit hectic for me” message from me either." },
+              { "ParagraphNumber": 2, "ParagraphContent": "On a bright Sunday morning, I sat on my sofa, coffee mug in my hand, and an uninvited thought slowly knocked the door of my brain, “Am I forgetting someone?”" },
+              { "ParagraphNumber": 3, "ParagraphContent": "“DORAEMON,” My Superego yelled dramatically in my head." },
+              { "ParagraphNumber": 4, "ParagraphContent": "What happened next was very unlike me—I picked up my phone and sent her a text." },
+              { "ParagraphNumber": 5, "ParagraphContent": "“Hello.” I typed." },
+              { "ParagraphNumber": 6, "ParagraphContent": "Within seconds, it was delivered. Seen. Replied to." },
+              { "ParagraphNumber": 7, "ParagraphContent": "“You up this early on a Sunday?” She replied—dramatic as ever." },
+              { "ParagraphNumber": 8, "ParagraphContent": "And just like that, we were chatting again—about random things, right from the deepest topics like “What does home mean to you” to the most silly topic like “What would you do if you were me for a day.”" },
+              { "ParagraphNumber": 9, "ParagraphContent": "It felt easy. Comforting—the kind I had never felt before. It did not feel like talking to someone whom you have not spoken to for a month now. It felt like yesterday that we were talking about the project and now, we are finally going to meet. Tomorrow." },
+              { "ParagraphNumber": 10, "ParagraphContent": "“Let’s meet tomorrow. 6:00 p.m.?” I texted." },
+              { "ParagraphNumber": 11, "ParagraphContent": "And unlike all our earlier plans, this one actually happened. We didn't know why we were meeting. Or even where. Maybe at her favourite café. Maybe the beach, with sunset views, with our Starbucks coffee in hand." },
+              { "ParagraphNumber": 12, "ParagraphContent": "And somehow, the spontaneity made it perfect. It gave me little moments to smile about—and a memory I’d carry for a long, long time." }
             ]
           }
-    
         ]
       },
-      {
+
+ {
         "ChapterNumber": 4,
         "ChapterName": "For the Main Character",
         "Pages": [
@@ -278,6 +115,8 @@
     
         ]
       }
+
+
     ]
   }
 ]
