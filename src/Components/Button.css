@@ -1,6 +1,7 @@
 .box
 {
     background-color: #14264a;
+    color: #ffffff; 
     height: 70px;
     aspect-ratio: 1/1;
     display: flex;
